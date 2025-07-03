@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Gemini CLI metadata
+GEMINI.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-wheel-metadata/
+.installed.cfg
+*.egg-info/
+
+# Spacy models
+/en_core_web_sm*
+/de_core_news_sm*
