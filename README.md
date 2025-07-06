@@ -40,8 +40,8 @@ graph TD
     N --> O[Linear]
     O --> P[Softmax]
 
-    style Encoder fill:#f9f,stroke:#333,stroke-width:2px
-    style Decoder fill:#ccf,stroke:#333,stroke-width:2px
+    style Encoder fill:#8c0f33,stroke:#333,stroke-width:2px
+    style Decoder fill:#61618c,stroke:#333,stroke-width:2px
 ```
 
 ## File Structure
