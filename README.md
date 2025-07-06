@@ -1,6 +1,6 @@
 # Attention Is All You Need: A Transformer Implementation
 
-This repository contains a PyTorch implementation of the Transformer model, as described in the paper "Attention Is All You Need" by Vaswani et al.
+This repository contains a PyTorch implementation of the Transformer model, as described in the paper "Attention Is All You Need" by Vaswani et al. [link to paper](https://arxiv.org/abs/1706.03762)
 
 ## Introduction
 
