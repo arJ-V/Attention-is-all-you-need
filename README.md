@@ -79,7 +79,7 @@ The project is organized as follows:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Attention-is-all-you-need.git
+    git clone https://github.com/arJ-V/Attention-is-all-you-need.git
     cd Attention-is-all-you-need
     ```
 
